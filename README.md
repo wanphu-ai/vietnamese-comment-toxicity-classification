@@ -812,7 +812,6 @@ Họ tên: Nguyễn Văn Phú
 MSSV: 23521187
 Lớp: KHMT
 Môn học: Xử lý ngôn ngữ tự nhiên - CS221
-Giảng viên hướng dẫn: Nguyễn Trọng Chỉnh
 ```
 
 ---
